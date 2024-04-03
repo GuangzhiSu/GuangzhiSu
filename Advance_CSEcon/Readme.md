@@ -19,6 +19,8 @@ A second aspect to enhance the experience is the integration of Artificial Intel
 The ability to incorporate AI players introduces a new dimension to experimental economics, enabling the study of human interaction with automated agents—a scenario increasingly relevant in the digital economy. Also, it opens up avenues for research in areas such as algorithmic trading, automated negotiation, and the exploration of human trust in AI decision-making.
 
 ![mindmap Image](mindmap.png)
+Figure 1 Mindmap of the problem
+
 ### Question 2: Beyond Computer Science and Economics Methodology 2 Multi-agent Reinforcement Learning: Advancing Multi-Agent Reinforcement Learning
 
 **Question:** Delve into the limitations of current multi-agent reinforcement learning (MARL) frameworks, focusing on environment constraints and agent algorithm customizations. Choose a classic game (e.g., Prisoner's Dilemma, Battle of the Sexes, or the Trust Game) to illustrate these limitations. Describe the development process of a MARL agent for your selected game, detailing the definition of states, actions, and rewards grounded in fundamental behavioral assumptions. Your analysis should provide insights into overcoming MARL's current limitations, fostering advancements in the field. Submit a comprehensive report (500 words max) with your findings and proposals.
@@ -34,6 +36,7 @@ The development of a MARL agent for Go involves defining states, actions, and re
 To overcome the noted limitations, MARL frameworks need to enhance their environment simulation capabilities and increase the flexibility of their algorithm customization. Efficient state representation and processing techniques can manage the expansive state space by focusing computational resources on promising game tree areas. Additionally, allowing for greater customization in learning algorithms through modular designs and meta-learning strategies can enable agents to develop diverse and innovative strategies, adapting their learning processes based on success in the environment. Some basic structure of the go-game would also be essential to learn through training by go-game players’ previous matches by Retrieval-Augmented Generation (Silver et al., 2007). For example, in the opening stages of the game, players typically establish groups of stones (or bases) near the corners and around the sides of the board, usually starting on the third or fourth line in from the board edge rather than at the very edge of the board (Wikipedia Contributors, 2019).
 
 ![Go Image](GoGame.png)
+Figure 2 How MARL plays go-game
 
 ### Question 3: Brainstorm your research idea by criticizing existing research: Critiquing and Expanding upon Existing Research
 
@@ -68,7 +71,7 @@ The answer provided by ChatGPT highlights the complexities of data sharing from 
 
 ![talk Image](TalkWithGPT1.png)
 ![talk Image](TalkWithGPT2.png)
-
+Figure 2 Screenshot of the discussion with ChatGPT4
 
 **Bibliography**
 - Wikipedia Contributors. 2019. “Go (Game).” Wikipedia. Wikimedia Foundation. May 20, 2019. <https://en.wikipedia.org/wiki/Go_(game)>.
