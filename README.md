@@ -4,6 +4,8 @@
 
 Welcome to my GitHub! I'm Allen, a sophomore student at Duke Kunshan University (DKU), pursuing a major in Applied Mathematics and Computer Science. With a passion for fostering collaborative and learning environments, I've taken up roles that allow me to contribute significantly to the student community and beyond.
 
+![Profile Image](profile.jpg)
+
 ## Education 🎓
 
 - **Duke Kunshan University (DKU)**
