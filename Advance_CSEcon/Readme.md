@@ -36,11 +36,10 @@ The development of a MARL agent for Go involves defining states, actions, and re
 
 To overcome the noted limitations, MARL frameworks need to enhance their environment simulation capabilities and increase the flexibility of their algorithm customization. Efficient state representation and processing techniques can manage the expansive state space by focusing computational resources on promising game tree areas. Additionally, allowing for greater customization in learning algorithms through modular designs and meta-learning strategies can enable agents to develop diverse and innovative strategies, adapting their learning processes based on success in the environment. Some basic structure of the go-game would also be essential to learn through training by go-game players’ previous matches by Retrieval-Augmented Generation (Silver et al., 2007). For example, in the opening stages of the game, players typically establish groups of stones (or bases) near the corners and around the sides of the board, usually starting on the third or fourth line in from the board edge rather than at the very edge of the board (Wikipedia Contributors, 2019).
 
-<center>
-![Go Image](GoGame.png)
+![Mind Map](GoGame.png)
 
-Figure 2 How MARL plays go-game
-<center>
+**Figure 2 How MARL plays go-game**
+
 
 ### Question 3: Brainstorm your research idea by criticizing existing research: Critiquing and Expanding upon Existing Research
 
@@ -73,12 +72,11 @@ I asked ChatGPT this question: Suppose you are a patient in the hospital. Now ho
 
 The answer provided by ChatGPT highlights the complexities of data sharing from the perspective of individual patients, emphasizing privacy concerns, trust in institutions, and the desire to contribute to societal benefits through medical research. This perspective aligns with and reinforces the need for the incentive mechanism discussed in the paper, which aims to encourage diverse participation in federated learning (FL) projects while addressing privacy and security concerns. ChatGPT’s response does not alter the conclusion of the paper but rather complements it by underscoring the importance of considering patient perspectives in the design of FL systems.
 
-<center>
+
 ![talk Image](TalkWithGPT1.png)
 ![talk Image](TalkWithGPT2.png)
 
-Figure 2 Screenshot of the discussion with ChatGPT4
-<center>
+**Figure 2 Screenshot of the discussion with ChatGPT4**
    
 **Bibliography**
 - Wikipedia Contributors. 2019. “Go (Game).” Wikipedia. Wikimedia Foundation. May 20, 2019. <https://en.wikipedia.org/wiki/Go_(game)>.
