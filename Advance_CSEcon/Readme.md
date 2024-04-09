@@ -77,6 +77,10 @@ The answer provided by ChatGPT highlights the complexities of data sharing from 
 ![talk Image](TalkWithGPT2.png)
 
 **Figure 2 Screenshot of the discussion with ChatGPT4**
+
+
+
+
    
 **Bibliography**
 - Wikipedia Contributors. 2019. “Go (Game).” Wikipedia. Wikimedia Foundation. May 20, 2019. <https://en.wikipedia.org/wiki/Go_(game)>.
