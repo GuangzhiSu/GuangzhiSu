@@ -36,6 +36,9 @@ Through these roles, I aim to nurture a space where students can collaborate, sh
 - Collaborated with **Nike** to enhance sports experiences for Chinese young adults
 - Participated in the **Millennium Fellowship** with the United Nations, focusing on sustainable development goals
 
+## Repository Introduction
+This GitHub repository is dedicated to housing my responses and solutions to Problem Set 1 for the **COMPSCI/ECON 206 Computational Microeconomics** class, taught by **Prof. Luyao Zhang** at DKU. It is structured to not only showcase my solutions to the intricate problems posed in the class but also to highlight my personal methodology, insights, and the innovative strategies I employed. Through the organization of each folder and file, visitors can trace my thought process and proficiency in applying computational techniques and economic theory to solve complex microeconomic problems.
+
 ## Connect with Me 📫
 
 For more about my projects, professional experiences, and collaborations, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/allen-guangzhi-su-苏广智-613070244/).
