@@ -41,16 +41,8 @@ This GitHub repository is dedicated to housing my responses and solutions to Pro
 
 ## Table of Contents
 
-1. [Reflection on Milestone 1](#reflection-on-milestone-1)
-2. [Reflection on Milestone 2](#reflection-on-milestone-2)
-
-## Reflection on Milestone 1
-
-For details on the first milestone, see the documents and resources in [CSEcon](./CSEcon/).
-
-## Reflection on Milestone 2
-
-For details on the second milestone, see the documents and resources in [Advance_CSEcon](./Advance_CSEcon/).
+1. For details on the first milestone, see the documents and resources in [Reflection on Milestone 1](./CSEcon/)
+2. For details on the second milestone, see the documents and resources in [Reflection on Milestone 2](./Advance_CSEcon/)
 
 
 ## Connect with Me 📫
