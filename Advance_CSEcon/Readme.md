@@ -18,7 +18,7 @@ A second aspect to enhance the experience is the integration of Artificial Intel
 
 The ability to incorporate AI players introduces a new dimension to experimental economics, enabling the study of human interaction with automated agents—a scenario increasingly relevant in the digital economy. Also, it opens up avenues for research in areas such as algorithmic trading, automated negotiation, and the exploration of human trust in AI decision-making.
 
-![mindmap](Advance_CSEcon/mindmap "mindmap")
+![mindmap](Advance_CSEcon/mindmap.png "mindmap")
 
 **Figure 1 Mindmap of the problem**
    
