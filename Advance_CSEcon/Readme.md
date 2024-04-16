@@ -32,7 +32,7 @@ After trying to use MARL to play the go game, a primary limitation of MARL frame
 
 Moreover, the customization of agent algorithms within these frameworks is often rigid, limiting the ability of agents to adapt to various scenarios or tasks. In the context of Go, this restrictiveness is particularly problematic. Each player in Go must develop unique strategies and adapt dynamically to their opponent's moves. However, the inflexible architecture of many MARL systems constrains agents' learning processes, preventing them from exploring innovative strategies or fully grasping the strategic depth of Go.  
 
-The development of a MARL agent for Go involves defining states, actions, and rewards grounded in the game's fundamental mechanics. The state is represented by the 19x19 board, with each point being either empty, occupied by a black stone, or occupied by a white stone. This representation requires efficient encoding to allow MARL agents to process the vast number of potential configurations. Actions in Go are defined as placing a stone on an empty point or choosing to pass. The strategic evaluation of each possible move, balancing immediate and long-term benefits, presents a significant challenge. Rewards, traditionally based on the territory controlled at the end of the game, may be augmented with intermediate objectives, such as capturing stones or securing key positions, to provide more immediate feedback and facilitate learning.  
+The development of a MARL agent for Go involves defining states, actions, and rewards grounded in the game's fundamental mechanics. The state is represented by the 19x19 board, with each point being either empty, occupied by a black stone, or occupied by a white stone. This representation requires efficient encoding to allow MARL agents to process the vast number of potential configurations. Actions in Go are defined as placing a stone on an empty point or choosing to pass. The strategic evaluation of each possible move, balancing immediate and long-term benefits, presents a significant challenge. Rewards, traditionally based on the territory controlled at the end of the game, may be augmented with intermediate objectives, such as capturing stones or securing key positions, to provide more immediate feedback and facilitate learning.  (Check Figure 3 for the mindmap)
 
 To overcome the noted limitations, MARL frameworks need to enhance their environment simulation capabilities and increase the flexibility of their algorithm customization. Efficient state representation and processing techniques can manage the expansive state space by focusing computational resources on promising game tree areas. Additionally, allowing for greater customization in learning algorithms through modular designs and meta-learning strategies can enable agents to develop diverse and innovative strategies, adapting their learning processes based on success in the environment. Some basic structure of the go-game would also be essential to learn through training by go-game players’ previous matches by Retrieval-Augmented Generation (Silver et al., 2007). For example, in the opening stages of the game, players typically establish groups of stones (or bases) near the corners and around the sides of the board, usually starting on the third or fourth line in from the board edge rather than at the very edge of the board (Wikipedia Contributors, 2019).(Figure 2)
 
@@ -40,6 +40,9 @@ To overcome the noted limitations, MARL frameworks need to enhance their environ
 
 **Figure 2 How MARL plays go-game**
 
+![Mind Map](mindmap1.png)
+
+**Figure 3 Mindmap for Question 2**
 
 ### Question 3: Brainstorm your research idea by criticizing existing research: Critiquing and Expanding upon Existing Research
 
@@ -68,18 +71,19 @@ Integrating blockchain with federated learning (FL) could significantly enhance 
 5. **Beyond Computer Science and Economics**
 By accounting for psychological heuristics in human participants and the varying capabilities of different AI versions like ChatGPT, the study might reveal that the effectiveness of monetary incentives could vary widely. Humans and AIs may respond unpredictably to incentives due to biases, information overload, or algorithmic constraints, leading to less optimal participation levels or decision-making processes than predicted by rational actor models.
 
-I asked ChatGPT this question: Suppose you are a patient in the hospital. Now hospitals and research institutions need your and other vast amounts of patients' data for developing predictive models for disease diagnosis or treatment outcomes, are you willing to offer it? (Figure 3)
+I asked ChatGPT this question: Suppose you are a patient in the hospital. Now hospitals and research institutions need your and other vast amounts of patients' data for developing predictive models for disease diagnosis or treatment outcomes, are you willing to offer it? (Figure 4)
 
-The answer provided by ChatGPT highlights the complexities of data sharing from the perspective of individual patients, emphasizing privacy concerns, trust in institutions, and the desire to contribute to societal benefits through medical research. This perspective aligns with and reinforces the need for the incentive mechanism discussed in the paper, which aims to encourage diverse participation in federated learning (FL) projects while addressing privacy and security concerns. ChatGPT’s response does not alter the conclusion of the paper but rather complements it by underscoring the importance of considering patient perspectives in the design of FL systems.
+The answer provided by ChatGPT highlights the complexities of data sharing from the perspective of individual patients, emphasizing privacy concerns, trust in institutions, and the desire to contribute to societal benefits through medical research. This perspective aligns with and reinforces the need for the incentive mechanism discussed in the paper, which aims to encourage diverse participation in federated learning (FL) projects while addressing privacy and security concerns. ChatGPT’s response does not alter the conclusion of the paper but rather complements it by underscoring the importance of considering patient perspectives in the design of FL systems.(Check Figure 5 for mindmap)
 
 
 ![talk Image](TalkWithGPT1.png)
 ![talk Image](TalkWithGPT2.png)
 
-**Figure 3 Screenshot of the discussion with ChatGPT4**
+**Figure 4 Screenshot of the discussion with ChatGPT4**
 
 
-
+![talk Image](mindmap2.png)
+**Figure 5 Mindmap for Question 3**
 
    
 **Bibliography**
