@@ -4,7 +4,7 @@
 
 **Answer:** Experimental economics has greatly benefited from advancements in software technologies, with platforms like oTree leading the charge in facilitating behavioral game theory research. However, based on the journey with deploying the trust game using oTree in the class, critical pain points that hinder its wider adoption, especially among those without a computer science background were revealed. The necessity to run complex commands in a terminal to execute an otreezip file stands out as a significant barrier, deterring engagement and potentially skewing research participation towards those with technical prowess.
 
-Therefore, I propose two software solutions envisioned to excel over oTree in three critical aspects:
+Therefore, I propose two software solutions envisioned to excel over oTree in three critical aspects(Check Figure 1 for mindmap):
 
 1. **Integrated Tutorial System:** While oTree provides download guidance, featuring a one-click download option and installation instructions, it falls short in offering comprehensive tutorials on terminal use—a skill many economics students find challenging. A more user-friendly approach would involve the provision of detailed, step-by-step guides or video tutorials on the website to assist users through the process.
 
