@@ -21,7 +21,7 @@ To use the files in this repository, follow the instructions below for each type
 ### LaTeX Source Files
 
 1. Navigate to the `LaTeX` folder.
-2. The main file is named `main.tex`. Compile this file using a LaTeX editor like TeXShop, Overleaf, or a command-line tool like pdflatex.
+2. The main file is named `CSECON206_Final Project_ Spring2024 --Guangzhi Su`. Compile this file using a LaTeX editor like TeXShop, Overleaf, or a command-line tool like pdflatex.
 3. Ensure all dependencies (packages) are installed in your LaTeX editor before compiling.
 
 ### Compiled PDF
