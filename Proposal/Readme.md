@@ -29,15 +29,9 @@ To use the files in this repository, follow the instructions below for each type
 1. Find the compiled PDF in the `CompiledPDF` folder.
 2. Open the PDF with any standard PDF reader to view the document.
 
-## Contributing
-
-We welcome contributions from the community. Here are ways you can contribute:
-
-- **Improvements**: Suggest changes to the notebook or LaTeX files via pull requests.
-- **Issues**: Report issues or propose new features by creating an issue in the repository.
 
 ## Contact
 
-For any additional information or specific queries, please reach out to the project team at `email@example.com`.
+For any additional information or specific queries, please reach out to the project team at `gs285@duke.edu`.
 
 Thank you for your interest in our SAIF research project!
